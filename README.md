@@ -1,4 +1,4 @@
 # testrepo
-![alt text](cat.jpg "Котик для пупы)
+![alt text](cat.png "Котик для пупы)
 
 ## не злюкайся плз
